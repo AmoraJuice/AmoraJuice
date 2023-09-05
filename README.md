@@ -1,5 +1,6 @@
 # AmoraJuice 🫐
-        "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa." 
+        "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus 
+        objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa." 
             -Albert Einstein
 ## Mais conhecido como Amaral
 Oi, me chamo Gustavo Amaral de apelido simples só Amaral, e com a chegada de 2022 venho dando um destaque cada vez maior para tecnologia e programação na minha vida. Com meus 18 anos ainda vejo programação como um *Hobby* porém nunca deixando de aprender mais e mais.
